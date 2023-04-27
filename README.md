@@ -27,4 +27,4 @@ Moteur de recherche utilisant l'API https://swapi.dev.
 ## Difficultés rencontrés
 
 - Je n'ai pas mis en place de filtre sur les différents champs autre que la recherche. Je n'ai pas trouvé de moyen pour filtrer directement en appelant l'API et je voyais pas comment les faire en JS de mon côté à cause du fait de récupérer les vaisseaux page par page. ( j'ai pensé à récupérer toute la liste des vaisseaux au chargement puis gérer la pagination et les filtres moi même mais je n'étais pas convaicu que ce sois la bonne pratique )
-- Redécouverte de l'environnement React après 3 ans en y touchant que très peu. De la docuement et des exemples ont aidés pour reprendre la main.
+- Redécouverte de l'environnement React après 3 ans en y touchant que très peu. De la documentation et des exemples ont aidés pour reprendre la main.
